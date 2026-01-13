@@ -39,6 +39,7 @@
     font-weight: 600;
     border-radius: 8px;
     border: none;
+    cursor: pointer;
 }
 
 main{
@@ -62,10 +63,17 @@ main > section{
     justify-content: space-between;
     align-items: center;
 }
-
+.red-logo{
+    color: red;
+}
 .brand{
     font-weight: 700;
     font-size: 3rem;
+    cursor: pointer;
+}
+.line-command{
+    text-decoration: none;
+    color: black;
 }
 .nav-item{
     list-style: none;
@@ -208,6 +216,13 @@ main > section{
 
 .sponsor-companies img{
     filter: grayscale(100%);
+}
+
+.footer-design{
+    background-color: rgb(1, 1, 114);
+    color: #FF900E;
+    justify-items: center;
+    margin: 0 auto;
 }
 
 
