@@ -224,6 +224,13 @@ main > section{
     justify-items: center;
     margin: 0 auto;
 }
+.footer-class{
+    color: #170183;
+    background-color: cornsilk;
+    padding: 20px;
+    font-weight: 10px;
+    justify-items: center;
+}
 
 
 /* responsive media query */
